@@ -10,4 +10,4 @@ eureka:
     
     
 doctor:
-  allDoctor: http://doctor-service/doctor/all
+  all-doctor: http://doctor-service/doctor/all
