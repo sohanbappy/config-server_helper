@@ -9,5 +9,5 @@ eureka:
     hostname: localhost
     
     
-microservice:
-  uri: http://doctor-service/doctor/all 
+user:
+   name: bappy
