@@ -10,7 +10,4 @@ eureka:
     
     
 microservice:
-  doctor-service:
-    endpoints:
-      endpoint:
-        allDoctor: http://doctor-service/doctor/all
+  uri: http://doctor-service/doctor/all 
