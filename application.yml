@@ -9,5 +9,6 @@ eureka:
     hostname: localhost
     
     
-user:
-   name: bappy
+uri:
+   admission:
+      allDoctor: http://doctor-service/doctor/all
