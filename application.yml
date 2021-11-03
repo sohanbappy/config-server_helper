@@ -10,5 +10,5 @@ eureka:
     
     
 uri:
-   admission:
-      allDoctor: http://doctor-service/doctor/all
+  admission:
+    allDoctor: ttp://doctor-service/doctor/all
