@@ -14,4 +14,3 @@ microservice:
     endpoints:
       endpoint:
         allDoctor: http://doctor-service/doctor/all
-        doctorById: http://doctor-service/doctor/
