@@ -9,5 +9,5 @@ eureka:
     hostname: localhost
     
     
-doctor:
-  all-doctor: http://doctor-service/doctor/all
+user:
+  name: http://doctor-service/doctor/all
